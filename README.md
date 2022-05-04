@@ -22,4 +22,4 @@ Laravel is a web application framework and this is a project to demonstrate role
 - README.md
 - Created 5 migration files for managing roles and permission
 - Those are: 2022_05_04_115623_create_roles_table.php, 2022_05_04_115640_create_permissions_table.php, 2022_05_04_120103_create_users_permission_table.php, database\migrations\2022_05_04_120214_create_users_roles_table.php, 2022_05_04_121348_create_roles_permissions_table.php.
-- 
+- app\Traits\HasPermissionsTrait.php
